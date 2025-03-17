@@ -11,8 +11,11 @@ LED / Buzzer - Close up of how our traffic lights / buzzer
 
 TTGO - Wiring for TTGO
 
-YouTube link to demonstration -
+YouTube link to demonstration (UPDATED)-
 ----
+https://www.youtube.com/watch?v=yjvSVdtDOpk&ab_channel=Genkuro
+OLD YOUTUBE LINK
+--------
 https://youtube.com/shorts/ZLIvwzcY7Ak
 
 
